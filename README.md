@@ -1,5 +1,5 @@
 # Project #3 - 3-Sort Race
-Team Name: LAB
+## Team Name: LAB
 
 Members(Group members are from 2 different class sections):
 Section Number = CPSC 335-04 
