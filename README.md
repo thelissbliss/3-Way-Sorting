@@ -8,7 +8,7 @@ Alyssa Bright  - alyssabright@csu.fullerton.edu
 Section Number = CPSC 335-05
 Brandon Tomich - btomich@csu.fullerton.edu
 
-Intro: 
+Intro: 3-Sort Race
 
 Contents (Files in the .zip submission):
 335-p3-LAB folder:
